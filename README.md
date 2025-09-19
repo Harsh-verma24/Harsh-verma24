@@ -23,7 +23,8 @@ I enjoy **learning, experimenting, and sharing knowledge**—from coding to work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
   <!-- Animated Tailwind CSS SVG -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS"/>
+
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" width="48" height="48" alt="Gemini AI"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
