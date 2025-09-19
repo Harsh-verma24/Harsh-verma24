@@ -15,14 +15,16 @@ I enjoy **learning, experimenting, and sharing knowledge**—from coding to work
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-Gemini-FFD600?style=for-the-badge" height="40" alt="Gemini API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" style="animation: bounce 2s infinite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" style="animation: bounce 2s infinite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" style="animation: bounce 2s infinite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" style="animation: bounce 2s infinite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" style="animation: bounce 2s infinite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js" style="animation: bounce 2s infinite"/>
+  <img src="https://img.shields.io/badge/-Gemini-FFD600?style=for-the-badge" width="50" height="50" alt="Gemini API" style="animation: bounce 2s infinite"/>
 </p>
+
+*Note: GitHub README does not support CSS animations directly, but the GIF icons below will add motion.*
 
 ---
 
@@ -46,4 +48,8 @@ I love **building projects for learning and fun**, guiding juniors, and creating
 
 ---
 
-![Coding Animation](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+## ✨ Animated Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="250" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" alt="AI Animation"/>
+</p>
