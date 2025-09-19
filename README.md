@@ -23,32 +23,12 @@ I enjoy **learning, experimenting, and sharing knowledge**—from coding to work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
   <!-- Animated Tailwind CSS SVG -->
-  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" style="display:inline;vertical-align:middle;">
-    <style>
-      .tw-anim { animation: twspin 2s linear infinite; }
-      @keyframes twspin { 100% { transform: rotate(360deg); } }
-    </style>
-    <g class="tw-anim">
-      <path fill="#38BDF8" d="M17.425 20.18c2.658 0 4.225 1.442 4.797 4.327.575 2.89 2.143 4.333 4.805 4.333 2.383 0 4.012-1.222 4.883-3.673.866-2.446 2.615-3.67 5.246-3.67 1.621 0 3.058.575 4.308 1.728C41.094 15.224 33.251 8 24 8c-7.669 0-14.164 5.068-16.98 12.171 1.182-1.01 2.547-1.517 4.109-1.517 2.631 0 4.38 1.224 5.296 3.675.882 2.444 2.513 3.666 4.996 3.666Z"/>
-      <path fill="#0EA5E9" d="M30.575 27.82c-2.658 0-4.225-1.442-4.797-4.327C25.204 20.603 23.636 19.16 20.974 19.16c-2.383 0-4.012 1.222-4.883 3.673C15.225 25.279 13.476 26.502 10.845 26.502c-1.621 0-3.058-.575-4.308-1.728C6.906 32.776 14.749 40 24 40c7.669 0 14.164-5.068 16.98-12.171-1.182 1.01-2.547 1.517-4.109 1.517-2.631 0-4.38-1.224-5.296-3.675-.882-2.444-2.513-3.666-4.996-3.666Z"/>
-    </g>
-  </svg>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" width="48" height="48" alt="Gemini AI"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
   <!-- Animated Gemini SVG -->
-  <svg width="48" height="48" viewBox="0 0 48 48" style="display:inline;vertical-align:middle;">
-    <style>
-      .gemini-anim { animation: gipulse 1.3s infinite; }
-      @keyframes gipulse {
-        0%,100% { opacity: 1; }
-        50% { opacity: .5; }
-      }
-    </style>
-    <g class="gemini-anim">
-      <circle cx="24" cy="24" r="20" fill="#4285F4"/>
-      <ellipse cx="24" cy="24" rx="10" ry="20" fill="#1A73E8"/>
-    </g>
-  </svg>
 </p>
 
 ---
