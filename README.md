@@ -19,16 +19,20 @@ I enjoy **learning, experimenting, and sharing knowledge**—from coding to work
 ## 💻 Tech Stack
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
   <!-- Animated Tailwind CSS SVG -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS"/>
+<svg width="48" height="48" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path fill="#38BDF8" d="M14.67 36.43C18.94 26.02 28.4 23.75 36.53 23c5.98-.58 10.5 1.28 13.43 3.7a39.44 39.44 0 012.7 2.56c-3.56-3.86-9.7-8.18-17.28-7.95-12.94.39-21.5 11.74-21.5 25.01 0 1.57.17 3.35.45 5.05 6.9-3.28 9.8-11.67 13.65-21.37zM9.76 44c5.81-10.25 14.48-12.2 22.43-13.3 4.46-.63 8.1.18 10.2 1.42a28.08 28.08 0 011.99 1.59c-2.12-1.69-6.17-3.88-10.96-2.9-11.92 2.48-19.65 14.33-19.65 27.17 0 1.64.22 3.54.53 5.34 7.11-3.18 11.89-13.18 16.51-23.96z"/>
+</svg>
+
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" width="48" height="48" alt="Gemini AI"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
+ 
   <!-- Animated Gemini SVG -->
 </p>
 
