@@ -35,5 +35,5 @@ I love **creating projects for learning and fun**, guiding juniors, and building
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4F00?logo=readme&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-verma-68115a326/)  
+
