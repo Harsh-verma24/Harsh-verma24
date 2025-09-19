@@ -1,39 +1,49 @@
 # Hi there 👋, I'm Harsh Verma
 
-![Profile Banner](https://img.shields.io/badge/B.Tech-IT-blue)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
-## 🚀 About Me
-I'm a B.Tech IT student at USICT specializing in **full-stack development** with the **MERN stack**. I love building **dynamic, responsive web apps** and exploring **AI tools and technologies**.  
-
-I enjoy **learning, experimenting, and sharing knowledge**—from coding projects to workshops for my peers.
+![GitHub Banner](https://img.shields.io/badge/B.Tech-IT-blue?style=for-the-badge&logo=appveyor)
+![Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 ---
 
-## 💻 Skills
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white)
-![AI](https://img.shields.io/badge/-Google%20Gemini%20API-FEDD00)
+## 🚀 About Me
+I'm a B.Tech IT student at USICT specializing in **full-stack development** with the **MERN stack**.  
+I love building **dynamic web apps** and exploring **AI tools like Google Gemini**.  
+I enjoy **learning, experimenting, and sharing knowledge**—from coding to workshops with juniors.  
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Gemini-FFD600?style=for-the-badge" height="40" alt="Gemini API" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **AI integrations** in web apps  
+- Advanced **AI integration** in web apps  
 - **React Native** for mobile development  
-- Building **interactive, AI-powered projects**  
+- Creating **interactive AI-powered projects**  
 
 ---
 
 ## ⚡ Fun Fact
-I love **creating projects for learning and fun**, guiding juniors, and building **collaborative communities** around tech and AI.  
+I love **building projects for learning and fun**, guiding juniors, and creating **tech communities** around AI and development.  
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-verma-68115a326/)  
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/></a>
+</p>
 
+---
+
+![Coding Animation](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
